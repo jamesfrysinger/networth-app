@@ -1,0 +1,2 @@
+export const ACTION_NETWORTH = "SET_NETWORTH";
+export const ACTION_SIGNIN = "SET_SIGNIN";
